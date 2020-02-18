@@ -1,15 +1,14 @@
 # World-map
 
-A program to visualize information about movies made at specific year and location.
+A program to visualize information about movies made at a specific year and location.
 
 ## Installation
 
-To run map you have to install all required libraries. 
+To run the map you have to install all the required libraries. 
 ### Prerequisites
 
 Run this code in cmd:
-```
-sudo pip install -r requirements.txt
+```sudo pip install -r requirements.txt
 ```
 
 ### Installing
@@ -26,7 +25,7 @@ You can stack with :
 ```
 geopy.exc.GeocoderQuotaExceeded: HTTP Error 429: Too Many Requests
 ```
-In this case try to change API, or just connect to another wi-fi.
+In this case, try to change API, or just connect to another wi-fi.
 
 ### Description of the HTML file:
 ```<!DOCTYPE html> -``` to define that the type of file isHTML5.
@@ -41,7 +40,7 @@ In this case try to change API, or just connect to another wi-fi.
 
 ```<style>``` - to write CSS code inside HTML file
 
-```<body>``` - a tag that contain all the information that have to be on the web page
+```<body>``` - a tag that contains all the information that has to be on the web page
 
 ```<div>``` - a tag that doing like a block that can have different styles and tags inside
 
@@ -49,4 +48,3 @@ In this case try to change API, or just connect to another wi-fi.
 
 ### Conclusion:
 The application is a simple and good way to get information about movies that you need 
-
