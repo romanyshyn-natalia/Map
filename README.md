@@ -8,7 +8,8 @@ To run the map you have to install all the required libraries.
 ### Prerequisites
 
 Run this code in cmd:
-```sudo pip install -r requirements.txt
+```
+sudo pip install -r requirements.txt
 ```
 
 ### Installing
@@ -16,8 +17,9 @@ Run this code in cmd:
 
 After that you will see:
 
-```Please enter a year you would like to have a map for:
-   Please enter your location (format: lat, long):
+```
+Please enter a year you would like to have a map for:
+Please enter your location (format: lat, long):
 ```
 ### Possible errors:
 You can stack with : 
