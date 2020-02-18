@@ -5,17 +5,20 @@ A program to visualize information about movies made at specific year and locati
 Installation
 
 To run map you have to install all required libraries. Run this code in cmd:
+
 sudo pip install -r requirements.txt
+
 After that you will see:
 Please enter a year you would like to have a map for:
 Please enter your location (format: lat, long):
+
 You have to enter the year and coordinates. After that you have to wait a littele bit. 
 
 Possible errors:
 You can stack with geopy.exc.GeocoderQuotaExceeded: HTTP Error 429: Too Many Requests. In this case try to change API, or just connect to another wi-fi.
 
 Description of the HTML file:
-<!DOCTYPE html> - to define that the type of file isHTML5.
+<!DOCTYPE html> - to define that the type of file is HTML5.
 
 <head> - a tag to post inside the most important information
 
